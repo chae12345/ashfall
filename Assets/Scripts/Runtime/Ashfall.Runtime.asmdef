@@ -1,0 +1,5 @@
+{
+  "name": "Ashfall.Runtime",
+  "rootNamespace": "Ashfall",
+  "references": ["Ashfall.Core"]
+}

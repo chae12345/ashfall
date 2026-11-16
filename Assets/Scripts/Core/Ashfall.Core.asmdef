@@ -1,0 +1,5 @@
+{
+  "name": "Ashfall.Core",
+  "rootNamespace": "Ashfall",
+  "noEngineReferences": true
+}

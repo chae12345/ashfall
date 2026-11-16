@@ -1,0 +1,6 @@
+{
+  "name": "Ashfall.Editor",
+  "rootNamespace": "Ashfall.Editor",
+  "references": ["Ashfall.Core", "Ashfall.Runtime"],
+  "includePlatforms": ["Editor"]
+}
